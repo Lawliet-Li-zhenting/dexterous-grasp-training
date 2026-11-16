@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+*.pt
+*.pth
+**/data/
+**/ckpt/
+**/output/
+**/wandb/
